@@ -1,7 +1,6 @@
 20220315  | 13:23:02  | D411 | allow | Database 3302 Port Allow Database Access!!
 20220315  | 13:24:22  | D411 | allow | Database 3302 Port Allow Database Access!!
 20220315  | 13:26:32  | D411 | allow | Database 3302 Port Allow Database Access!!
-20220315  | 13:31:42  | D411 | allow | Database 3302 Port Allow Database Access!!
+20220315  | 13:31:42  | D411 | disallow | Database 3302 Port Disallow Database Access!!
 20220315  | 13:42:56  | D411 | allow | Database 3302 Port Allow Database Access!!
 20220315  | 13:55:01  | D411 | allow | Database 3302 Port Allow Database Access!!
-20220315  | 13:56:21  | D411 | allow | Database 3302 Port Allow Database Access!!
